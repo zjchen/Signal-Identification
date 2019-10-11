@@ -1,0 +1,3 @@
+[console_scripts]
+soapy_power = soapypower.__main__:main
+
